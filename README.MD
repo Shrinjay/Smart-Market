@@ -1,6 +1,6 @@
 # Demo
 
-![Demo gif](/short.gif)
+![Demo gif](Short.gif)
 
 # Implementation
 * A Flask Backend, interfacing with a trained GPT-2 Model and a MongoDB databse.
