@@ -1,0 +1,6 @@
+.env
+.idea
+checkpoint
+models
+node_modules
+venv
